@@ -1,1 +1,2 @@
 # MeduChat
+MeduChat is an advanced medical chatbot designed to provide reliable and accurate health information using state-of-the-art AI technology. This project leverages the Llama 3B language model, optimized with OpenVINO, to deliver fast and efficient conversational responses. MeduChat aims to assist users with a wide range of medical inquiries, from understanding symptoms and treatments to offering general health advice.
